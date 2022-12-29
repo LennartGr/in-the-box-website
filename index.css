@@ -21,11 +21,17 @@ body {
 }
 
 #hero {
-    height: 120px;
+    height: 170px;
     background-color: var(--champagne-pink);
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#logo {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
 }
 
 #title {
