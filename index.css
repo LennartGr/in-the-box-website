@@ -58,6 +58,10 @@ body {
        
 }
 
+.nav-bar-item:hover {
+    background-color: var(--deep-taupe)
+}
+
 .nav-bar-item a {
     color: var(--isabelline);
     text-decoration: none;
